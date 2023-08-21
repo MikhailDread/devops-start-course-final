@@ -1,0 +1,5 @@
+openvpn-server (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Mikhail <mikhail@local>  Sun, 20 Aug 2023 18:18:12 +0000
