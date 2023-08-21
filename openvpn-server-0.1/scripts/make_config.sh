@@ -3,8 +3,8 @@
 # Script for making .ovpn files for vpn settings on client
 # First argument: Client identifier
 
-KEY_DIR=/home/mikhail/ovpn-certs
-OUTPUT_DIR=/home/mikhail/clntconfig
+KEY_DIR=/home/mikhail/ovpn-certs/server
+OUTPUT_DIR=/home/mikhail/clientconfig
 BASE_CONFIG=/home/mikhail/openvpn-configuration/openvpn-client.conf
 
 cat ${BASE_CONFIG} \
